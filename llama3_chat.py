@@ -7,19 +7,19 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 
 import os
 
-st.subheader("Llama 3.1 405B Chatbot")
+st.subheader("We are testing LlaMA model")
 
-st.markdown("")
+st.markdown("Stay tuned to see the fun")
 
 with st.sidebar:
-    st.title("Llama 3.1 405B Chatbot")
+    st.title("We are testing LlaMA model")
     st.subheader("This app lets you chat with Llama 3.1 405B! [👉]")
     api_key = st.text_input("Enter your Fireworks API Key", type="password")
     add_vertical_space(2)
     st.markdown("""
     """)
     add_vertical_space(3)
-    st.write("Reach out to me")
+    st.write("Reach out to me ON LinkedIn")
 
 
 # Initialize session state variables
