@@ -9,8 +9,7 @@ Follow these steps to set up and run the Llama 3.1 405B chatbot:
 
 1. Clone the GitHub repository:
    ```
-   git clone https://github.com/buildfastwithai/llm-chatbot.git
-   cd llm-chatbot
+  
    ```
 
 2. Install the required dependencies:
