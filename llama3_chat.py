@@ -17,12 +17,9 @@ with st.sidebar:
     api_key = st.text_input("Enter your Fireworks API Key", type="password")
     add_vertical_space(2)
     st.markdown("""
-    Want to lean how to build this? 
-   
-    Join [GenAI Course](https://www.buildfastwithai.com/genai-course) by Build Fast with AI!
     """)
     add_vertical_space(3)
-    st.write("Reach out to me on [LinkedIn](https://www.linkedin.com/in/satvik-paramkusham)")
+    st.write("Reach out to me")
 
 
 # Initialize session state variables
